@@ -1,0 +1,22 @@
+1. Numerica Data Type
+    ==> SMALLINT
+    ==> INT
+    ==> BIGINT
+    ==> FLOAT
+    ==> DOUBLE(M,D)
+    ==> DECIMAL(M,D)
+
+
+2. Character Type
+    ==> Char(m)
+    ==> Varchar(m)
+    ==> text
+
+3. Date and Time data Type
+    ==> YEAR (YYYY)
+    ==> DATE (YYYY-MM-DD)
+    ==> TIME (HH:MM:SS)
+
+4. Some other data Type
+    ==> BLOB (Binary Large Object) 
+    ==> Logical
